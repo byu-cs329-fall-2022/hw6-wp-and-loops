@@ -100,7 +100,7 @@ method Q3(n0 : int, m0 : int) returns (res : int)
 
 **Part A**: Write a specification for the above method and show that Dafny is able to prove total correctness relative to the specification.  Use weakest-precondition calculus as needed to create the specification.
 
-**Part B**: Construct a paper-pencil proof of the method showing all five obligations required to compute the weakest-precondition for the loop for total correctness.
+**Part B**: Construct a paper-pencil proof of the method showing all six obligations required to compute the weakest-precondition for the loop for total correctness.
 
 ## 4. Total Correctness Relative to Recursive Definition (30 points)
 
